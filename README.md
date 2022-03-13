@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raveracker&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raveracker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raveracker&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
